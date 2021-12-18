@@ -23,7 +23,11 @@ Your application code is in Instagram_Clone\lib\main.dart.
 
 # Assets/Videos
 
-
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/57798484/146651530-391d8018-1bed-4aaa-a451-0ae38a29898b.jpg" width="250"/>
+  <img src="https://user-images.githubusercontent.com/57798484/146651532-0738b401-2ebc-4318-9ed8-3c4687598150.jpg" width="250"/>
+  <img src="https://user-images.githubusercontent.com/57798484/146651533-d057a4d9-4fd0-418e-94a3-8f04189ee26f.jpg" width="250"/>
+</p>
 
 
 https://user-images.githubusercontent.com/57798484/146637823-9f8af7cb-c4ef-46c3-b1fa-11d519797f47.mp4
